@@ -128,7 +128,7 @@ This project was completed as part of the Machine Learning Internship Task at Co
 
 # Author
 
-Palak Katoch
+Abhinav Gautam
 
 ---
 
